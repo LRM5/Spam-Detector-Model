@@ -173,6 +173,7 @@ print(f"Model saved to {model_filename}")
 import json 
 import requests
 
+# Uploading to validation endpoint
 url =  "URL"
 
 model_file_path = "spam_detection_model path"
